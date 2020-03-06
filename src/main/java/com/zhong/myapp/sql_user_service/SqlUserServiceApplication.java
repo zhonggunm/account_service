@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SqlUserServiceApplication {
+	
+	//test git
 
 	public static void main(String[] args) {
 		System.out.print("SqlUserService\n");
